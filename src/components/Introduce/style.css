@@ -1,0 +1,67 @@
+.introduce{
+    background-color: white;
+    padding: 50px 50px 50px 50px;
+}
+.contact{
+    z-Index : 1 ;
+    position : absolute ;
+     top : 50%;
+     left: 30%;
+    font-size: 40px;
+     font-weight: bold;
+     color: rgb(255, 255, 255);
+}
+.contact-01{
+    display: block;
+    margin: 20px;
+    width: 375px;
+    height: 300px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 20px;
+    padding: 30px;
+}
+.contact-btn{
+    margin-top: 5px;
+    background-color: black !important;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border: none !important;
+    border-radius: 15px;
+}
+.contact-btn01{
+    margin-top: 15px;
+    background-color: black !important;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: none !important;
+    border-radius: 15px;
+}
+.contact-btn02{
+    margin-top: 90px;
+    background-color: black !important;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: none !important;
+    border-radius: 15px;
+}
+.contact-btn03{
+    margin-top: 15px;
+    background-color: black !important;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: none !important;
+    border-radius: 15px;
+}
+.contact-btn04{
+    margin-top: 40px;
+    background-color: black !important;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: none !important;
+    border-radius: 15px;
+}

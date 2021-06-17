@@ -1,0 +1,198 @@
+
+*{
+    box-sizing: border-box;
+  }
+   .oder-steps-pay{
+  width: 100%;
+  height: 100px;
+  background-color: rgb(0, 0, 0);
+  }
+  .orderPage{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 54px;
+    margin-bottom: 54px;
+    min-height: 70vh;
+    max-width: 1170px;
+  }
+  
+  .formOrder{
+    width: 50%;
+  }
+  
+  .formItem{
+    width: 100%;
+    font-size: 13px;
+    margin: 0px 0px 15px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color: rgb(51, 51, 51);
+    font-size: 13px;  
+  }
+  
+  .formItem input{
+    height: 42px;
+    width: 67%;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, -webkit-box-shadow 0.15s ease-in-out 0s;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    height: 34px;
+    padding: 6px 12px;
+    line-height: 34px;
+    outline: none;
+  }
+  
+  .formItem label{
+    width: 33%;
+    font-weight: 700;
+  }
+  
+  .formConfirm{
+    width: 50%;
+    padding: 0px 24px;
+  }
+   h3{
+    text-align: center;
+  }
+  
+  .itemOrder{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    border: 1px solid rgb(239, 239, 239);
+      border-radius: 4px;
+      padding-right: 8px;
+      margin: 6px 0px;
+      background-color: white;
+      height: 150px;
+  }
+  
+  .itemOrder img{
+    display: inline-flex;
+    width: 150px;
+    height: 100px;
+  }
+  
+  .itemInfo{
+    margin-bottom: 12px;
+      padding-left: 20px;
+      width: calc(100% - 50px);
+  }
+  .itemName{
+    font-size: 18px;
+      color: black;
+      position: relative;
+      font-weight: 400;
+      width: 90%;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      margin-bottom: 10px;
+  }
+  
+  .itemPrice{
+    font-size: 15px;
+    display: flex;
+      -webkit-box-pack: justify;
+      justify-content: space-between;
+  }
+  
+  .finalCheckout{
+    padding: 8px 14px;
+    margin-top: 50px;
+    background-color: blanchedalmond;
+    border: 1px solid rgb(239, 239, 239);
+      border-radius: 4px;
+      padding-right: 8px;
+  }
+  
+  .emptyPrice{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 14px;
+  }
+  
+  .totalPrice{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .finalPrice{
+    color: rgb(238, 35, 71);
+      font-size: 19px;
+      font-weight: 400;
+      text-align: right;
+  }
+  
+  .btnCheckout{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btnCheckout button{
+    border-radius: 4px;
+    background: #fff;
+    padding: 6px 56px;
+    color: #008848;
+    outline: none;
+    border: 1px solid #008848;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+  }
+  /*  */
+  /* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: white;
+  } */
+  
+  /* .button {
+    position: relative;
+    appearance: none;
+    background: black;
+    padding: 1em 2em;
+    border: none;
+    color: white;
+    font-size: 1.2em;
+    cursor: pointer;
+    outline: none;
+    overflow: hidden;
+    border-radius: 100px;
+  }
+  .button span {
+    position: relative;
+    pointer-events: none;
+  }
+  .button::before {
+    --size: 0;
+    content: "";
+    position: absolute;
+    left: var(--x);
+    top: var(--y);
+    width: var(--size);
+    height: var(--size);
+    background: radial-gradient(circle closest-side, rgb(77, 67, 67), transparent);
+    transform: translate(-50%, -50%);
+    transition: width 0.2s ease, height 0.2s ease;
+  }
+  .button:hover::before {
+    --size: 400px;
+  }
+   */
+  /*# sourceMappingURL=style.css.map */
+  .oder-pay-main{
+    background-color: white !important;
+    margin: 0px 50px 0px 50px;
+  }
+ 

@@ -1,0 +1,56 @@
+.lazy {
+  min-height: 60vh;
+  padding-bottom: 10px;
+ background-image: url('./a.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* color: #fff */
+}
+.slide-home-sale1{
+ width: 400px;
+ height: 400px;
+ margin: 0 auto;
+}
+.lazy-content > h3 {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.lazy-content > p {
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.lazy-content {
+  padding: 0 1rem;
+}
+.lazy-text {
+  font-size: 30px;
+  color: rgb(194, 45, 45)
+}
+
+.lazy-offer {
+  text-transform: capitalize;
+  margin-bottom: 0.5rem;
+}
+.slide-home{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 160px;
+  width: 100% !important;
+  font-size: 40px;
+  display: flex;
+  width: 100%;
+  
+}
+.slide-home-sale{
+  margin: 0 auto;
+
+  margin-top: 100px;
+}

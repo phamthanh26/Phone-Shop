@@ -1,0 +1,33 @@
+
+  .itemInfo{
+    margin-bottom: 12px;
+      padding-left: 20px;
+      width: calc(100% - 50px);
+  }
+  .itemName{
+    font-size: 18px;
+      color: black;
+      position: relative;
+      font-weight: 400;
+      width: 90%;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      margin-bottom: 10px;
+  }
+  
+  .itemPrice{
+    font-size: 15px;
+    display: flex;
+      -webkit-box-pack: justify;
+      justify-content: space-between;
+  }
+  .itemImg{
+      width: 100%;
+      
+  }
+  .oder-pay-0{
+    width: 100%;
+    height: 200px;
+    border: 1px solid rgb(214, 214, 214);
+    margin-bottom: 10px;
+  }

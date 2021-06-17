@@ -1,0 +1,534 @@
+.detail-hang {
+    font-size: 30px;
+}
+.detail-color{
+    font-size: 20px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+.detail-bottom{
+    margin-top: 35px;
+    background-color: rgb(248, 225, 190);
+    height: 220px;
+    padding: 10px;
+}
+.detail-bottom-w1{
+    margin-top: 20px;
+    border-top: 1px solid black;
+}
+.gia{
+    font-size: 25px;
+    text-align: center;
+    color: red;
+}
+.red{
+    background-color: rgb(63, 38, 38);
+   }
+.color{
+ background-color: red;
+}
+.button-w2{
+    width: 300px;
+   justify-items: center;
+   display: block !important;
+   margin-left: auto !important;
+   margin-right: auto !important;
+   background-color: black !important;
+   color: white !important;
+  border: none !important;
+}
+.button-w2:hover{
+  width: 300px;
+ justify-items: center;
+ display: block !important;
+ margin-left: auto !important;
+ margin-right: auto !important;
+ background-color: rgb(0, 0, 0) !important;
+ color: rgb(255, 0, 0) !important;
+border: none !important;
+}
+.imgdetails{
+    height: 560px !important;
+}
+.detail-img-main{
+    height: 400px !important;
+    width: 600px !important;
+    display: block !important;
+    margin-left: 500px !important;
+    margin-right: auto !important;
+}
+
+.detail-right-w100 > .detail-cart > .ant-card{
+  height: 400px !important;
+}
+.imgdetails{
+    width: 100%;
+}
+  .imgsmall {
+
+    margin-left: 30px;
+  
+  }
+  .color{
+      /* width: 110px;
+      height: 50px !important;
+     margin: 10px !important; */
+     margin-right: 30px !important;
+     width: 50px !important;
+     height: 50px !important;
+
+     border-radius: 50% !important;
+     /* -moz-border-radius: 50% !important;
+     -webkit-border-radius: 50% !important; */
+  } 
+  /* .color :hover{
+
+    margin-right: 50px !important;
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 50% !important;
+    -moz-border-radius: 50% !important;
+     -webkit-border-radius: 50% !important;
+  } */
+ .color-main{
+   
+ }
+  .color-title{
+      text-align: center;
+      margin-top: 20px;
+  }
+  .detail-radio{
+    margin-right: 20px !important;
+  
+    width: 100px !important;
+    height: 50px !important;
+    border: 1px solid rgb(35, 39, 37) !important;
+  }
+  .detail-radio-text{
+      text-align: center !important;
+    
+      color: black;
+      font-size: 15px;
+      
+  }
+  /* san pham lien quan */
+  .detail-product{
+    
+    margin-top: 10px;   
+    width: 280px;
+    /* margin: 20px !important; */
+    overflow: hidden;
+    border: 1px solid rgb(236, 228, 228) !important;
+  }
+/* canh giua hinh anh */
+.detail-main-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.detail-gb{
+    margin-left: 20px;
+    width: 100%-20 ;
+    background-color: white;
+    border: 1px solid  rgb(208, 213, 210) !important;
+    height: 600px;
+    padding: 15px;
+}
+/* danh gia */
+.detail-evaluate{
+    width: 100%;
+    height: 250px;
+    border: 1px solid rgb(204, 204, 203);
+    background-color: white;
+}
+.detail-evaluate-01{
+   border-right: 2px solid rgb(204, 204, 203);
+   width: 100%;
+   height: 250px;
+   text-align: center;
+   position: relative;
+}
+.ant-radio-button-wrapper::before {
+    
+    width: 0px !important;
+   
+}
+.ant-radio-button-inner:hover {
+    
+   width: 80px !important;
+   
+}
+.ant-cart-bordered { 
+    border: none;
+}
+.detail-cart0> .ant-card-bordered {
+  border:none !important;
+  padding-left: 20px;
+  padding-top: 20px;
+} 
+/*  */
+.detail-sale{
+  
+    width: 100%;
+    height: 170px;
+   border: 1px solid rgb(204, 204, 203) ;
+    margin-top: 15px;
+}
+.detail-icon-sale{
+  width: 15px;
+  height: 15px;
+  margin-top: 5px;
+}
+.detail-sale-01{
+  margin-top: 15px;
+  margin-left: 10px;
+     
+}
+.detail-sale .promotion_wrapper  {
+    margin-top: 290px;
+    margin-left: 20px;
+    background: #e11b1e;
+    border-radius: 13px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    top: -13px;
+    left: 10px;
+    vertical-align: middle;
+    line-height: 26px;
+    clear: both;
+    padding: 0 15px;
+    text-transform: uppercase;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+}
+.detail-img-02{
+    width: 100%;
+    height: 115px;
+    
+}
+.detail-tt-02{
+    width: 100%;
+   
+    border:1px solid rgb(196, 190, 190) !important;
+}
+table, th, td{
+    border:1px solid rgb(196, 190, 190);
+    height: 40px;
+    text-align: center;
+    color: rgb(80, 80, 80);
+}
+table{
+    border-collapse:collapse;
+}
+.detail-product{
+    width: 300px !important;
+   margin-right: 5px !important;
+    border: 1px solid rgb(204, 204, 203) !important;
+}
+.detail-product-sp{
+    font-weight: bold;
+    height: 30px;
+   
+}
+.detail-product-sp-01{
+    border-bottom: 5px solid black;
+    width: 300px;
+}
+/*  */
+
+.comment-rate{
+    
+    width: 100%;
+    /* max-width: 1270px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 170px; */
+  }
+
+.comment-rate-user{
+    width: 100%;
+    height: 100px;
+    text-align: left;
+}
+  .text-content{
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .btn-comment{
+      margin-left: 350px !important;
+    height: 50px;
+    margin-left: 18px;
+    border-radius: 4px;
+    background: black;
+    padding: 6px 26px;
+    color: white;
+    outline: none;
+    text-align: right;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+  }
+  
+  .btn-comment:hover {
+    transition: all 0.2s ease-in-out;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+  }
+  
+  .show-comment{
+    margin-top: 28px;
+    margin-bottom: 24px;
+  }
+  
+  .comment-container{
+    display: flex;
+    width: 100%;
+    padding: 8px 0px;
+    border-bottom: 1px solid rgb(0, 0, 0,0.2);
+  }
+  
+  .user-comment{
+    display: flex;
+    align-items: center;
+    width: 30%;
+  }
+  
+  .user-comment-avatar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: rgb(153, 153, 153);
+  }
+  
+  .user-comment-content{
+    margin-left: 8px;
+    font-weight: bold;
+  }
+  
+  .content-coment{
+    
+  }
+  
+  .detail-ant-rate-text{
+    margin-left: 10px;
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 500;
+  }
+  .rate{
+    font-size: 12px !important;
+    background-color: rgb(255, 255, 255) !important;
+    color: black !important;
+  }
+  .commet-time{
+    font-size: 14px;
+    line-height: 16px;
+    color: rgb(120, 120, 120);
+    margin-top: 8px;
+  }
+  /*  */
+  .comment-action {
+    padding-left: 8px;
+    cursor: 'auto';
+  }
+  
+  [class*='-col-rtl'] .comment-action {
+    padding-right: 8px;
+    padding-left: 0;
+  }
+  .child{
+    position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 50%;
+  height: 30%;
+  margin: auto;
+ 
+  }
+  /* html {
+    scroll-behavior: smooth;
+  } */
+
+  .ant-progress-success-bg, .ant-progress-bg {
+    position: relative;
+    background-color: #ed1a1a !important;
+    border-radius: 100px;
+    transition: all 0.4s cubic-bezier(0.08, 0.82, 0.17, 1) 0s;
+}
+.aa .ant-btn{
+  background-color: black !important;
+}
+.color-main > .ant-radio-group >.ant-radio-button-wrapper > .ant-radio-button {
+  border: 2px solid rgb(8, 170, 108) !important;
+  border-radius: 999px;
+}
+.ant-radio-group >.ant-radio-button-wrapper > .ant-radio-button {
+  border: 2px solid rgb(8, 170, 108) !important;
+
+
+ 
+}
+.detail-top-name{
+  height: 60px;
+  text-align: left;
+  font-size: 25px;
+  padding-top: 12px;
+}
+.detail-price-01{
+  font-size: 30px;
+  color: red;
+  text-align: left;
+
+}
+.detail-top-name-01{
+  border-bottom: 1px solid rgb(236, 228, 228);
+  display: flex;
+}
+.detail-top-rate{
+  text-align: right;
+  font-size: 16px;
+  padding-top: 15px !important;
+  margin-left: 20px !important;
+  color: black !important;
+}
+.detail-top-rate-name{
+  text-align: right;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 10px;
+  color: black !important;
+}
+.detail-main{
+  margin-top: 0px;
+  background-color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+.detail-product-04 > .ant-row > .ant-col{
+  
+}
+.card-demo{
+  width: 300px;
+  border: 1px solid rgb(221, 221, 221);
+}
+.detail-rate-name-main{
+  display: flex !important;
+ 
+}
+.detail-img-main{
+  width: 90% !important;
+  height: 540px !important;
+  margin-left: 20px !important;
+}
+.detail-dagia{
+  width: 100%;
+  height: 160px;
+  border: 1px solid  rgb(181, 181, 181);
+  padding: 10px;
+}
+.detail-evaluate{
+  text-align: center !important;
+  width: 100%;
+  height: auto;
+  border: none;
+}
+.detail-evaluate-number{
+  color: red;
+  font-size: 30px;
+}
+/* 
+ */
+@media only screen and (max-width: 768px){
+  /*  */
+  .detail-evaluate-text{
+    font-size: 10px !important;
+  }
+  .detail-evaluate-number{
+    color: red;
+    font-size: 20px;
+    height: 31px;
+    margin-top: 10px;
+  }
+  .rate{
+    height: 25px;
+  }
+  /*  */
+  .detail-main{
+    margin-top: 0px;
+    background-color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+  }
+  .detail-top-name{
+    font-size: 30px;
+    padding-top: 20px;
+      height: 30px;
+  }
+  .detail-top-rate{
+    text-align: left;
+    height: 40px;
+    font-size: 18px;
+    padding-top: 20px !important;
+    margin-left: 0px !important;
+  }
+  .detail-top-rate-name{
+    text-align: left;
+    height: 40px;
+    font-size: 18px;
+    padding-top: 3px !important;
+    margin-left: 20px !important;
+  }
+  .detail-top-name-01{
+    display: block;
+    margin-left: 25px;
+  }
+  .detail-rate-name-main{
+    display: flex !important;
+   
+  }
+  .detail-feature{
+    display: none;
+  }
+  .color{
+   margin-right: 10px !important;
+   width: 50px !important;
+   height: 50px !important;
+   border-radius: 50% !important;
+} 
+.detail-price-01{
+  font-size: 20px;
+  color: red;
+  margin-top: 6px;
+}
+/* button */
+.detail-bottom-w1{
+  margin-top: 5px;
+}
+.button-w2{
+  width: 200px !important;
+}
+.detail-product-sp{
+  margin-top: 50px;
+}
+.detail-product-04 > .ant-row > .ant-col{
+  /* width: 340px; */
+}
+.detail-img-main{
+  width: 90% !important;
+  height: 300px !important;
+  margin-left: 20px !important;
+}
+}

@@ -1,0 +1,8 @@
+.search-top{
+  font-size: 24px;
+  font-weight: 400;
+}
+.search-text{
+  display: flex;
+  height: 25px;
+}

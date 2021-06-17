@@ -1,0 +1,53 @@
+.checkout-main-right{
+    margin-left: 15px;
+}
+.checkout-right-input{
+ margin-bottom: 20px;
+    
+}
+.checkout-right-input-01{
+    height: 35px;
+    width: 100% !important;
+    border: 1px solid rgb(189, 189, 189);
+}
+.checkout-right-input-02{
+    
+    width: 100% !important;
+    border: 1px solid rgb(189, 189, 189);
+}
+.text-warning{
+    color: red;
+}
+.btn-order{
+    width: 300px;
+   justify-items: center;
+   display: block !important;
+   margin-left: auto !important;
+   margin-right: auto !important;
+   background-color: black !important;
+   color: white !important;
+  border: none !important;
+  height: 35px;
+  font-size: 18px;
+  
+}
+.finalCheckout{
+    background-color: wheat ;
+    height: 150px;
+    padding-left: 20px;
+    
+}
+.totalPrice{
+    font-size: 20px;
+    display: flex;
+}
+.emptyPrice{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+ .oder-steps-pay{
+    padding-top: 50px;
+    border-bottom: 1px solid rgb(194, 194, 194);
+    height: 110px;
+    
+    }

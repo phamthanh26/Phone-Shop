@@ -1,0 +1,93 @@
+.product {
+    background-color: white;
+    margin-left : 70px  ;
+    margin-right: 70px;
+}
+.product .ant-card{
+    width: 280px;
+    overflow: hidden;
+    border: 1px solid rgb(236, 228, 228);
+  
+}
+.button-all{
+    border-top: 1px solid black;
+    padding-top: 10px;
+    align-items: center !important;
+}
+.phone-product{
+    width: 100px;
+    position: static;
+    border-radius: 20px;
+    border: 1px solid rgb(204, 200, 200);
+    text-align: center !important;
+   
+    margin-left: 10px;
+    height: 40px;
+}
+/*  */
+/*  */
+.sale{
+    text-align: left;
+    background-color: rgb(221, 221, 221);
+    width: 60px;
+    font-size: 11px;
+}
+.product-list{
+    width: 100%;
+}
+.ant-list-items{
+    width: 1000px !important;
+    display: flex;
+    margin: 15px !important;
+    align-items: center !important;
+
+}
+.ant-list-split .ant-list-item{
+    border: 1px solid rgb(199, 196, 191) !important
+    ;
+}
+.body{
+    width: 100% !important;
+    background-color: white !important;
+}
+.slick-dots {
+    bottom: +10px !important;
+}
+.aaa{
+    margin-left: 5px !important;
+    margin-top: 8px !important;
+    width: 100%-20;
+    height: 30px;
+   font-size: 12px !important;
+    color: black !important;
+  
+}
+.product-rate{
+    width: 100%;
+    height: 36px;
+   display: flex;
+     color: black !important;
+     background-color: rgb(214, 214, 214);
+}
+.product-rate-count{
+    margin-top: 8px !important;
+    margin-left: 8px !important;
+    height: 30px !important;
+    width: 15px;
+    font-size: 15px;
+}
+.button-product-add{
+    width: 100%;
+    background-color: black;
+    color: white;
+    border: none !important;
+    height: 100%;
+}
+.ant-card-small > .ant-card-body {
+    padding: 15px !important;
+}
+.show-more{
+    margin: 15px 15px;
+    background-color: black !important;
+    color: white !important;
+}

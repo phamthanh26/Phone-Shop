@@ -1,0 +1,30 @@
+    
+.button-register .ant-btn{
+    background-color: #15191d !important;
+    border: 1px solid #1890ff !important;
+    color: #fff !important;
+    width: 80px;
+}
+.button-register .ant-btn:hover {
+        background-color: brown !important;
+}
+.button-register .ant-col{
+    padding-right:  20px !important;
+    padding-left: 20px !important;
+  }
+  .register{
+        display: flex;
+        padding: 50px;
+        flex-direction: column;
+        justify-content: center;
+        height: 400px;
+        width: 600px;
+        border-radius: 20px;
+        background-color: rgba(255, 255, 255, 0.75);
+       padding: 20px !important; 
+
+  }
+.input-Register {
+    width: 480px !important;
+    margin-left: 40px !important;
+}
